@@ -1,0 +1,5 @@
+Create a container with the class name "container".
+Create 3 boxes of varying width and height inside the container. Each should have a different background color.
+Add 2 heading tags inside the container and give them double the font-size
+Give the "container a font-size of 20px.
+Add another heading tag that gets its font size from the root.
