@@ -1,3 +1,8 @@
+# TTA Frontend Project
+
+This project is a frontend web development exercise that demonstrates various concepts such as HTML structure, CSS styling, media embedding, and form handling. It is organized into multiple classes, each focusing on specific web development topics.
+
+## Project Structure
 
 ### File Descriptions
 

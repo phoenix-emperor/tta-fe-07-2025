@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  position: relative;
+  left: 20px;
+  list-style-type: none;
+}
+
+.absolute {
+  position: absolute;
+  top: 0px;
+  left: 250px;
+}
+
+.right {
+  left: 500px;
+}

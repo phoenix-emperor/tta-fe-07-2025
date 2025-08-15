@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  /* position: relative; */
+  /* left: 100px; */
+  margin-left: 40px;
+  /* margin-top: 50px; */
+}
+
+.relative {
+  position: relative;
+  top: -100px;
+  left: 450px;
+}
+
+.absolute {
+  position: absolute;
+  left: 40px;
+  top: 200px;
+}
+
+.fixed {
+  position: fixed;
+  top: 20px;
+  right: 0px;
+}
+
+.sticky {
+  position: sticky;
+  top: 20px;
+}
+
+img {
+  width: 50px;
+}

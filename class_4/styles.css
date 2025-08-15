@@ -1,0 +1,29 @@
+.container {
+  background: #546466;
+  width: 400px;
+  /* height: 700px; */
+  font-size: 20px;
+}
+
+.box {
+  background: aqua;
+  width: 50vw;
+  height: 2in;
+  margin: 10px;
+}
+/* 
+img {
+  width: 50%;
+} */
+
+.text {
+  /* font-size: 15px; */
+  font-size: 1em;
+  /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:700;
+  text-align: right;
+  text-decoration: double;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
